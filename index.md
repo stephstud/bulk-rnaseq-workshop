@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Introduction to Bulk RNA-seq Analysis
 description: A practical RNA-seq analysis workshop at Monash University Malaysia
 ---
@@ -17,6 +18,27 @@ This 1.5-day workshop introduces the principles and practical analysis of bulk R
 
 The workshop combines short theory sessions with practical exercises covering quality control, data visualisation, differential expression analysis and functional enrichment. The final session gives participants time to apply the workflow to their own data with instructor support.
 
+## Content
+
+This course is an introduction for how to approach bulk RNA-seq data, starting from the sequencing reads. It will provide an overview of the fundamentals of RNA-seq analysis, including:
+
+* read preprocessing,
+* data normalisation,
+* data exploration with PCAs and heatmaps,
+* performing differential expression analysis and annotation of the differentially expressed genes.
+
+Participants will also learn how to evaluate confounding and batch effects in the data. The course will further touch upon laboratory protocols, library preparation, and experimental design of RNA sequencing experiments, especially about how they influence downstream bioinformatic analysis.
+
+## Learning outcomes
+
+A student who has met the objectives of the course will be able to:
+
+* Gain insight into how to design an RNA-seq experiment
+* Preprocess sequencing reads
+* Analyse bulk RNA-seq data using the R packages edgeR and limma
+* Know best practices for performing differential expression analysis
+* Annotate and interpret their results
+
 ## General information
 
 - **Audience:** Researchers, postgraduate students and biologists interested in RNA-seq analysis.
@@ -26,33 +48,51 @@ The workshop combines short theory sessions with practical exercises covering qu
 
 ## Schedule
 
-### Day 1: Theory and practical analysis
+### Day 1 morning
 
-| Time | Session |
-|---|---|
-| 09:00–09:30 | Introduction to RNA-seq and the overall analysis workflow |
-| 09:30–10:00 | **Theory:** Gene-count matrices, experimental design and sample metadata |
-| 10:00–10:45 | **Practical 1:** Loading data and exploring the count matrix |
-| 10:45–11:00 | Morning tea |
-| 11:00–11:30 | **Theory:** Quality control, normalisation and sources of variation |
-| 11:30–12:30 | **Practical 2:** Sample QC, data filtering and PCA |
-| 12:30–13:30 | Lunch |
-| 13:30–14:00 | **Theory:** Differential expression analysis and statistical concepts |
-| 14:00–15:00 | **Practical 3:** Differential expression analysis in R |
-| 15:00–15:15 | Afternoon tea |
-| 15:15–15:45 | **Theory:** Interpreting and visualising differential expression results |
-| 15:45–16:30 | **Practical 4:** Volcano plots, heatmaps and expression plots |
-| 16:30–16:45 | Wrap-up and questions |
+**Lecture**
 
-### Day 2: Applying the workflow
+- Introductions
+- Intro to RNA-seq
+- Experimental design considerations
+- Overview of DE analysis
+- QC, filtering, normalisation
 
-| Time | Session |
-|---|---|
-| 09:00–09:30 | **Theory:** Functional enrichment and biological interpretation |
-| 09:30–10:15 | **Practical 5:** Pathway enrichment analysis |
-| 10:15–10:30 | Morning tea |
-| 10:30–11:45 | **Independent application:** Analysing participants' own data with instructor support |
-| 11:45–12:00 | Discussion, troubleshooting and next steps |
+**Practical**
+
+- Load counts and metadata
+- Calculate and visualise sequencing stats
+- Add annotation
+- QC, filtering, normalisation
+
+### Day 1 afternoon
+
+**Lecture**
+
+- Data visualisation
+- Identifying and adjusting for variation
+- Checking variation is removed successfully
+- DE analysis
+
+**Practical**
+
+- Identifying and adjusting for variation (MDS plots)
+- Checking variation is removed successfully (BCV plot)
+- DE analysis
+- Data vis (volcano plots, heatmaps)
+
+### Day 2 morning
+
+**Lecture**
+
+- Pathway enrichment in limma
+- Do more with your bulk RNA-seq data
+
+**Practical**
+
+- Pathway enrichment in limma
+- Do more with your bulk RNA-seq data (overview of resources available)
+- Optional: bring your own data
 
 *The schedule is provisional and may change.*
 
