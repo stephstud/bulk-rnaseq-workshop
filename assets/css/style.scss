@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  font-size: 0.85rem;
+
+  p, li {
+    text-align: justify;
+  }
+}
