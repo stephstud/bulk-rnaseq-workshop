@@ -5,8 +5,8 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
 ---
 
 <div class="workshop-header">
-  <img src="4-additional-content/Monash-University-Monash-BDI-locked-element-for-digital-sponsorship-SMC-18012016.jpg" alt="Monash Biomedicine Discovery Institute" width="200">
   <h1>Introduction to Bulk RNA-seq Analysis</h1>
+  <img src="4-additional-content/Monash-University-Monash-BDI-locked-element-for-digital-sponsorship-SMC-18012016.jpg" alt="Monash Biomedicine Discovery Institute" width="200">
 </div>
 <div class="banner-details">
   <div>November 2-3, 2026</div>
