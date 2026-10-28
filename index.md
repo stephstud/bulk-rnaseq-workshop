@@ -14,7 +14,7 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
 
 
 ## General Information
-In this 1.4 day workshop, you will learn how to analyse RNA-seq data from raw counts through to pathway enrichment using R with an emphasis on the limma-voom analysis workflow.
+In this 1.5 day workshop, you will learn how to analyse RNA-seq data from raw counts through to pathway enrichment using R with an emphasis on the limma-voom analysis workflow.
 This will include learning how to read in count data, perform quality control, identify and adjust for confounding variation and batch effects, perform differential expression analysis, 
 pathway enrichment and gene set testing. You will also generate plots associated with the workflow, including PCA/MDS plots, volcano plots, and heatmaps. The final session 
 will give participants time to apply the workflow to their own data with instructor support.
