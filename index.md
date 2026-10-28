@@ -9,25 +9,25 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
 </p>
 
 # Introduction to Bulk RNA-seq Analysis
-
-<p align="center">
-  **Monash University Malaysia | December 2026**
-</p>
-
 This 1.5-day workshop introduces the principles and practical analysis of bulk RNA sequencing (RNA-seq) data. Participants will learn about the complete RNA-seq workflow, from raw sequencing reads to biological interpretation, and gain hands-on experience analysing gene-count data in R.
 
 The workshop combines short theory sessions with practical exercises covering quality control, data visualisation, differential expression analysis and functional enrichment. The final session gives participants time to apply the workflow to their own data with instructor support.
+
+---
 
 ## Content
 
 This course is an introduction for how to approach bulk RNA-seq data, starting from the sequencing reads. It will provide an overview of the fundamentals of RNA-seq analysis, including:
 
-* read preprocessing,
-* data normalisation,
-* data exploration with PCAs and heatmaps,
-* performing differential expression analysis and annotation of the differentially expressed genes.
+* quality control of raw counts, filtering and normalisation
+* data exploration with PCAs and MDS plots
+* identifying adjusting for confounding variables and batch effects
+* differential expression analysis and data visualisation
+* pathway enrichment analysis
 
 Participants will also learn how to evaluate confounding and batch effects in the data. The course will further touch upon laboratory protocols, library preparation, and experimental design of RNA sequencing experiments, especially about how they influence downstream bioinformatic analysis.
+
+---
 
 ## Learning outcomes
 
@@ -39,12 +39,16 @@ A student who has met the objectives of the course will be able to:
 * Know best practices for performing differential expression analysis
 * Annotate and interpret their results
 
+---
+
 ## General information
 
-- **Audience:** Researchers, postgraduate students and biologists interested in RNA-seq analysis.
-- **Prerequisites:** Basic familiarity with R is helpful but not essential.
-- **Duration:** 1.5 days.
-- **Location:** Monash University Malaysia.
+- **Audience:** Researchers, postgraduate students and biologists interested in RNA-seq analysis
+- **Prerequisites:** Basic familiarity with R is helpful but not essential
+- **Duration:** 1.5 days
+- **Location:** Monash University Malaysia
+
+---
 
 ## Schedule
 
@@ -96,9 +100,11 @@ A student who has met the objectives of the course will be able to:
 
 *The schedule is provisional and may change.*
 
+---
+
 ## Lecture materials
 
-- [Introduction to bulk RNA-seq slides](lectures/workshop_intro_slides.pdf)
+- Lecture materials will be made available here.
 
 ## Practical materials
 
@@ -110,10 +116,10 @@ The practical sessions will use a gene-count matrix and sample metadata. The int
 
 Participants should bring a laptop and complete the software setup before the workshop.
 
-1. Install [R](https://cran.r-project.org/).
-2. Install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
-3. Download the workshop materials.
-4. Complete the pre-workshop setup check.
+1. Install [R](https://cran.r-project.org/)
+2. Install [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+3. Download the workshop materials
+4. Complete the pre-workshop setup check
 
 Detailed installation instructions and required R packages will be provided before the workshop.
 
@@ -121,8 +127,8 @@ Detailed installation instructions and required R packages will be provided befo
 
 Participants who wish to work with their own data on Day 2 should bring:
 
-- A gene-count matrix.
-- A sample metadata table.
-- A research question and the comparison they wish to investigate.
+- A gene-count matrix
+- A sample metadata table
+- A research question and the comparison they wish to investigate
 
 Participants without suitable data can continue using the workshop dataset.
