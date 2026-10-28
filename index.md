@@ -10,14 +10,14 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
 </div>
 <div class="banner-details">
   <div>November 2-3, 2026</div>
-  <div><strong>Instructor:</strong> Stephanie Studniberg</div>
 </div>
 
 
 ## General Information
-In this workshop, you will learn how to analyse RNA-seq data from raw counts through to pathway enrichment using R with an emphasis on the limma-voom analysis workflow.
+In this 1.4 day workshop, you will learn how to analyse RNA-seq data from raw counts through to pathway enrichment using R with an emphasis on the limma-voom analysis workflow.
 This will include learning how to read in count data, perform quality control, identify and adjust for confounding variation and batch effects, perform differential expression analysis, 
-pathway enrichment and gene set testing. You will also generate plots associated with the workflow, including PCA/MDS plots, volcano plots, and heatmaps.
+pathway enrichment and gene set testing. You will also generate plots associated with the workflow, including PCA/MDS plots, volcano plots, and heatmaps. The final session 
+will give participants time to apply the workflow to their own data with instructor support.
 
 **Who this workshop is for:** This workshop is aimed at biologists (graduate students and other researchers) intending to perform differential expression analysis of bulk RNA-seq data in R. Please not that basic
 R knowledge is assumed, and this is not an introduction to R course.
@@ -25,13 +25,6 @@ R knowledge is assumed, and this is not an introduction to R course.
 **Requirements:** Participants must bring a laptop with the specific software packages installed. 
 
 **Contact:** Please email stephanie.studniberg@monash.edu for more information.
-
-
-This 1.5-day workshop introduces the principles and practical analysis of bulk RNA sequencing (RNA-seq) data. Participants will learn about the complete RNA-seq workflow,
-from raw sequencing reads to biological interpretation, and gain hands-on experience analysing gene-count data in R.
-
-The workshop combines short theory sessions with practical exercises covering quality control, data visualisation, differential expression analysis and pathway enrichment.
-The final session gives participants time to apply the workflow to their own data with instructor support.
 
 ---
 
