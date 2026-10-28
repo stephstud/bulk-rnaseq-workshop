@@ -10,3 +10,26 @@
     text-align: justify;
   }
 }
+
+.workshop-banner {
+  background-color: #eeeeee;
+  padding: 1.5rem 2rem;
+  border-radius: 0.3rem;
+  margin-bottom: 1.5rem;
+
+  h1 {
+    margin-top: 0;
+    color: #222;
+  }
+
+  .banner-details {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 1rem;
+
+    div {
+      margin-right: 2rem;
+    }
+  }
+}

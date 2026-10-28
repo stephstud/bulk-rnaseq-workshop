@@ -8,24 +8,31 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
 <img src="4-additional-content/Monash-University-Monash-BDI-locked-element-for-digital-sponsorship-SMC-18012016.jpg" alt="Monash Biomedicine Discovery Institute" width="240">
 </p>
 
-# Introduction to Bulk RNA-seq Analysis
-This 1.5-day workshop introduces the principles and practical analysis of bulk RNA sequencing (RNA-seq) data. Participants will learn about the complete RNA-seq workflow, from raw sequencing reads to biological interpretation, and gain hands-on experience analysing gene-count data in R.
+<div class="workshop-banner">
+  <h1>Introduction to Bulk RNA-seq Analysis</h1>
+  <div class="banner-details">
+    <div>November 2-3, 2026</div>
+    <div><strong>Instructor:</strong> Stephanie Studniberg</div>
+  </div>
+</div>
 
-The workshop combines short theory sessions with practical exercises covering quality control, data visualisation, differential expression analysis and functional enrichment. The final session gives participants time to apply the workflow to their own data with instructor support.
+This 1.5-day workshop introduces the principles and practical analysis of bulk RNA sequencing (RNA-seq) data. Participants will learn about the complete RNA-seq workflow,
+from raw sequencing reads to biological interpretation, and gain hands-on experience analysing gene-count data in R.
+
+The workshop combines short theory sessions with practical exercises covering quality control, data visualisation, differential expression analysis and pathway enrichment.
+The final session gives participants time to apply the workflow to their own data with instructor support.
 
 ---
 
 ## Content
 
-This course is an introduction for how to approach bulk RNA-seq data, starting from the sequencing reads. It will provide an overview of the fundamentals of RNA-seq analysis, including:
+This course is an introduction for how to approach bulk RNA-seq data, starting from a raw counts object. It will provide an overview of the fundamentals of RNA-seq analysis, including:
 
-* quality control of raw counts, filtering and normalisation
-* data exploration with PCAs and MDS plots
-* identifying adjusting for confounding variables and batch effects
-* differential expression analysis and data visualisation
-* pathway enrichment analysis
-
-Participants will also learn how to evaluate confounding and batch effects in the data. The course will further touch upon laboratory protocols, library preparation, and experimental design of RNA sequencing experiments, especially about how they influence downstream bioinformatic analysis.
+* Quality control of raw counts, filtering and normalisation
+* Data exploration with PCAs and MDS plots
+* Identifying adjusting for confounding variables and batch effects
+* Differential expression analysis and data visualisation
+* Pathway enrichment analysis
 
 
 ## Learning outcomes
@@ -33,7 +40,6 @@ Participants will also learn how to evaluate confounding and batch effects in th
 A student who has met the objectives of the course will be able to:
 
 * Gain insight into how to design an RNA-seq experiment
-* Preprocess sequencing reads
 * Analyse bulk RNA-seq data using the R packages edgeR and limma
 * Know best practices for performing differential expression analysis
 * Annotate and interpret their results
@@ -48,13 +54,12 @@ A student who has met the objectives of the course will be able to:
 
 ---
 
-## Schedule
+## Schedule (November 2-3 2026)
 
 ### Day 1 morning
 
 **Lecture**
 
-- Introductions
 - Intro to RNA-seq
 - Experimental design considerations
 - Overview of DE analysis
@@ -102,13 +107,15 @@ A student who has met the objectives of the course will be able to:
 
 ## Lecture materials
 
-- Lecture materials will be made available here.
+Lecture materials will be made available here.
 
 ## Practical materials
 
 Practical scripts, example datasets and supporting materials will be made available here.
 
 The practical sessions will use a gene-count matrix and sample metadata. The introductory lecture will cover the broader workflow, including processing raw FASTQ files.
+
+---
 
 ## Software setup
 
@@ -120,6 +127,7 @@ Participants should bring a laptop and complete the software setup before the wo
 4. Complete the pre-workshop setup check
 
 Detailed installation instructions and required R packages will be provided before the workshop.
+
 
 ## Preparing your own data
 
