@@ -4,7 +4,7 @@ title: Introduction to Bulk RNA-seq Analysis
 description: A practical RNA-seq analysis workshop at Monash University Malaysia
 ---
 
-<p align="center">
+<p style="text-align: center;">
 <img src="4-additional-content/Monash-University-Monash-BDI-locked-element-for-digital-sponsorship-SMC-18012016.jpg" alt="Monash Biomedicine Discovery Institute" width="240">
 </p>
 
@@ -27,7 +27,6 @@ This course is an introduction for how to approach bulk RNA-seq data, starting f
 
 Participants will also learn how to evaluate confounding and batch effects in the data. The course will further touch upon laboratory protocols, library preparation, and experimental design of RNA sequencing experiments, especially about how they influence downstream bioinformatic analysis.
 
----
 
 ## Learning outcomes
 
@@ -39,7 +38,6 @@ A student who has met the objectives of the course will be able to:
 * Know best practices for performing differential expression analysis
 * Annotate and interpret their results
 
----
 
 ## General information
 
