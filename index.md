@@ -109,8 +109,6 @@ Lecture materials will be made available here.
 
 Practical scripts, example datasets and supporting materials will be made available here.
 
-The practical sessions will use a gene-count matrix and sample metadata. The introductory lecture will cover the broader workflow, including processing raw FASTQ files.
-
 ---
 
 ## Software setup

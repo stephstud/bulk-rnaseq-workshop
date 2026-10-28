@@ -1,0 +1,12 @@
+ReadFile1,ReadFile2,CohortID,Outcome,Infection,Severity,RNAseqID,Sex,FeverDay,Serotype,RNAIsoBatch,LibraryPrepYear
+JKT-12_S4_R1.fastq.gz,JKT-12_S4_R2.fastq.gz,JKT-12,Secondary_DF,Secondary,DF,DF_1,M,2,DENV-4,b3,2019
+JKT-13_S5_R1.fastq.gz,JKT-13_S5_R2.fastq.gz,JKT-13,Secondary_DF,Secondary,DF,DF_2,M,2,DENV-2,b3,2019
+SS-JKT-21_S7_R1.fastq.gz,SS-JKT-21_S7_R2.fastq.gz,JKT-21,Secondary_DF,Secondary,DF,DF_3,F,2,NA,b4,2021
+JKT-26_S1_R1.fastq.gz,JKT-26_S1_R2.fastq.gz,JKT-26,Secondary_DF,Secondary,DF,DF_4,F,4,DENV-3,b2,2019
+JKT-27_S2_R1.fastq.gz,JKT-27_S2_R2.fastq.gz,JKT-27,Secondary_DF,Secondary,DF,DF_5,M,2,DENV-2,b2,2019
+SS-JKT-20_S6_R1.fastq.gz,SS-JKT-20_S6_R2.fastq.gz,JKT-20,Secondary_DHF,Secondary,DHF,DHF_1,F,2,DENV-2,b4,2021
+SS-JKT-22_S8_R1.fastq.gz,SS-JKT-22_S8_R2.fastq.gz,JKT-22,Secondary_DHF,Secondary,DHF,DHF_2,M,2,DENV-2,b4,2021
+SS-JKT-30_S11_R1.fastq.gz,SS-JKT-30_S11_R2.fastq.gz,JKT-30,Secondary_DHF,Secondary,DHF,DHF_3,M,4,DENV-1,b1,2021
+JKT-31_S6_R1.fastq.gz,JKT-31_S6_R2.fastq.gz,JKT-31,Secondary_DHF,Secondary,DHF,DHF_4,F,4,DENV-2,b3,2019
+JKT-32_S3_R1.fastq.gz,JKT-32_S3_R2.fastq.gz,JKT-32,Secondary_DHF,Secondary,DHF,DHF_5,F,3,DENV-2,b2,2019
+SS-JKT-33_S12_R1.fastq.gz,SS-JKT-33_S12_R2.fastq.gz,JKT-33,Secondary_DHF,Secondary,DHF,DHF_6,M,3,DENV-4,b4,2021
