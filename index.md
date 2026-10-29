@@ -19,7 +19,7 @@ This will include learning how to read in count data, perform quality control, i
 pathway enrichment and gene set testing. You will also generate plots associated with the workflow, including PCA/MDS plots, volcano plots, and heatmaps. The final session 
 will give participants time to apply the workflow to their own data with instructor support.
 
-**Who this workshop is for:** This workshop is aimed at biologists (graduate students and other researchers) intending to perform differential expression analysis of bulk RNA-seq data in R. Please not that basic
+**Who this workshop is for:** This workshop is aimed at biologists (graduate students and other researchers) intending to perform differential expression analysis of bulk RNA-seq data in R. Please note that basic
 R knowledge is assumed, and this is not an introduction to R course.
 
 **Requirements:** Participants must bring a laptop with the specific software packages installed. 
