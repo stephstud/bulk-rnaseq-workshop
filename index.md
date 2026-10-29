@@ -33,11 +33,11 @@ R knowledge is assumed; this is not an introduction to R course.
 This course is an introduction for how to approach bulk RNA-seq data, starting from a raw counts object. It will provide an overview of the fundamentals of RNA-seq analysis, including:
 
 * Quality control of raw counts, filtering and normalisation
-* Data exploration with PCAs and MDS plots
-* Identifying adjusting for confounding variables and batch effects
+* Data exploration with PCA and MDS plots
+* Identifying and adjusting for confounding variables and batch effects
 * Differential expression analysis and data visualisation
-* Pathway enrichment analysis
-
+* Pathway enrichment and gene set testing analysis
+* Additional resources available to make the most of your bulk RNA-seq data
 
 ## Learning outcomes
 
@@ -46,7 +46,7 @@ A student who has met the objectives of the course will be able to:
 * Gain insight into how to design an RNA-seq experiment
 * Analyse bulk RNA-seq data using the R packages edgeR and limma
 * Know best practices for performing differential expression analysis
-* Annotate and interpret their results
+* Learn how to make the most of their bulk RNA-seq data
 
 ---
 
