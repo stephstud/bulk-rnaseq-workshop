@@ -16,11 +16,11 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
 ## General Information
 In this 1.5 day workshop, you will learn how to analyse RNA-seq data from raw counts through to pathway enrichment using R with an emphasis on the limma-voom analysis workflow.
 This will include learning how to read in count data, perform quality control, identify and adjust for confounding variation and batch effects, perform differential expression analysis, 
-pathway enrichment and gene set testing. You will also generate plots associated with the workflow, including PCA/MDS plots, volcano plots, and heatmaps. The final session 
+pathway enrichment and gene set testing. You will also generate plots associated with the workflow, including QC plots, PCA/MDS plots, volcano plots, and heatmaps. The final session 
 will give participants time to apply the workflow to their own data with instructor support.
 
 **Who this workshop is for:** This workshop is aimed at biologists (graduate students and other researchers) intending to perform differential expression analysis of bulk RNA-seq data in R. Please note that basic
-R knowledge is assumed, and this is not an introduction to R course.
+R knowledge is assumed; this is not an introduction to R course.
 
 **Requirements:** Participants must bring a laptop with the specific software packages installed. 
 
