@@ -52,3 +52,9 @@ rsconnect/
 # Not ready to publish yet
 /2-practicals/
 /3-data/
+/1-lectures/
+/bulk-rnaseq-workshop.Rproj
+/Rplots.pdf
+/targets.csv
+~$*
+.DS_Store
