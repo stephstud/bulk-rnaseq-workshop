@@ -9,7 +9,7 @@ description: A practical RNA-seq analysis workshop at Monash University Malaysia
   <img src="4-additional-content/Monash-University-Monash-BDI-locked-element-for-digital-sponsorship-SMC-18012016.jpg" alt="Monash Biomedicine Discovery Institute" width="200">
 </div>
 <div class="banner-details">
-  <div>December 2-3, 2026</div>
+  <div>December 3-4, 2026</div>
 </div>
 
 
@@ -50,7 +50,7 @@ A student who has met the objectives of the course will be able to:
 
 ---
 
-## Schedule (November 2-3 2026)
+## Schedule (December 3-4 2026)
 
 ### Day 1 morning
 
